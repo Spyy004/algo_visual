@@ -1,4 +1,4 @@
-# algovisual
+# Algo-visualizer
 
 A new Flutter application.
 
